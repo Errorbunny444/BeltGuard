@@ -1,0 +1,22 @@
+/* Industrial Theme Token Classes & Gradients */
+
+.gradient-health-track {
+  background: linear-gradient(90deg, #10b981 0%, #34d399 50%, #f59e0b 80%, #ef4444 100%);
+}
+
+.gradient-health-inactive {
+  background: linear-gradient(90deg, rgba(16, 185, 129, 0.25) 0%, rgba(245, 158, 11, 0.2) 65%, rgba(239, 68, 68, 0.15) 100%);
+}
+
+.subtle-pulse {
+  animation: pulse-slow 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse-slow {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}

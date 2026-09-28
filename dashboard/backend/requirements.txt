@@ -1,0 +1,8 @@
+Flask
+flask-cors
+Ultralytics
+opencv-python
+numpy
+paho-mqtt
+qrcode
+Pillow

@@ -1,0 +1,9 @@
+BeltGuard — license status pending rights review
+
+No blanket MIT license or other new license grant is applied by this repository preparation.
+
+Original project code remains subject to its copyright owners' rights until the owners select and approve an appropriate license. Third-party code, fonts, sprites, Unity resources, model weights and other assets remain subject to their respective licenses; existing notices are retained with the files.
+
+The project depends on Ultralytics YOLO. Its software/model licensing must be reviewed along with the training-data and asset provenance before distributing the combined project. See docs/THIRD_PARTY_NOTICES.md.
+
+This file records license status. It is not an open-source license grant and does not override third-party terms.

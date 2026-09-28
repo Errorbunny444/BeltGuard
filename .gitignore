@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Node
+node_modules/
+dist/
+build/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+*.csproj
+*.sln
+*.suo
+# IDE and OS
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+# Generated output
+*.log
+runs/
